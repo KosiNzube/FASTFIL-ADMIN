@@ -60,13 +60,12 @@ void main() async {
     // name:"Fast-fil",
 
     options:FirebaseOptions(
-        apiKey: "AIzaSyBRWe6ljejI4tJLMTfjjfISQniFbNK-S6M",
-        authDomain: "afri-gas.firebaseapp.com",
-        projectId: "afri-gas",
-        storageBucket: "afri-gas.appspot.com",
-        messagingSenderId: "500621667467",
-        appId: "1:500621667467:web:5eebf1309089626491788e",
-        measurementId: "G-LS7GBL9EDS"
+        apiKey: "AIza*********SQniFbNK-S6M",
+        authDomain: "afr******app.com",
+        projectId: "af***gas",
+        storageBucket: "af******467",
+        appId: "1:50*********9626491788e",
+        measurementId: "G******DS"
 
 
     ),);
